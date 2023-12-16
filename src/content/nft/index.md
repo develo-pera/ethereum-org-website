@@ -30,7 +30,7 @@ Here's how an internet of NFTs compared to the internet most of us use today loo
 
 | An NFT internet                                                                                                         | The internet today                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| You own your assets! Only you can sell or swap them.                                                                    | You rent an asset from some organization and it can be taken away from you.                                                                                                              |
+| You own your assets! Only you can sell or swap them.                                                                    | You rent an asset from some organization and it can be taken away from you.                                                                            |
 | NFTs are digitally unique, no two NFTs are the same.                                                                    | A copy of an entity often cannot be distinguished from the original.                                                                                   |
 | Ownership of an NFT is stored on the blockchain for anyone to verify.                                                   | Ownership records of digital items are stored on servers controlled by institutions – you must take their word for it.                                 |
 | NFTs are smart contracts on Ethereum. This means they can easily be used in other smart contracts and apps on Ethereum! | Companies with digital items usually require their own "walled garden" infrastructure.                                                                 |
@@ -66,7 +66,6 @@ This website also has an alternative domain name powered by NFTs, **ethereum.eth
 
 <Divider />
 
-
 ## How do NFTs work? {#how-nfts-work}
 
 NFTs, like any digital items on the Ethereum blockchain, are created through a special Ethereum based computer program called a "smart contract." These contracts follow certain rules, like the ERC-721 or ERC-1155 standards, which determine what the contract can do.
@@ -79,7 +78,7 @@ The NFT smart contract can do a few key things:
 
 When someone "creates" or "mints" an NFT, they're basically telling the smart contract to give them ownership of a particular NFT. This information is securely and publicly stored in the blockchain.
 
-Furthermore, the creator of the contract can add extra rules. They might limit how many of a certain NFT can be made or decide that they should get a small royality fee whenever the NFT changes hands.
+Furthermore, the creator of the contract can add extra rules. They might limit how many of a certain NFT can be made or decide that they should get a small royalty fee whenever the NFT changes hands.
 
 ### NFT security {#nft-security}
 
